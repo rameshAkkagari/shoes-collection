@@ -1,0 +1,27 @@
+.swiper-image{
+    width: 90%;
+    height: 70vh;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.imgcontainer{
+    width: 90%;
+    height: 60vh;
+    margin: auto;
+}
+
+.img{
+    padding:15px;
+    margin-top: 10px;
+    width: 100vw;
+    height: 60vh;
+    object-fit: fill;
+  
+}
+.swiper{
+    width: 100%;
+    height: 100%;
+}
+
